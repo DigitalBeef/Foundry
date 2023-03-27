@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/GIT/Foundry/ImpactTemplate/Content/Impact/Maps/Impact.umap",
+				"C:/GIT/Foundry/ImpactTemplate/Content/Impact/Blueprints/SlammerCube.uasset",
+				"C:/GIT/Foundry/ImpactTemplate/Content/__ExternalActors__/Impact/Maps/Impact/5/0Q/94VARAQ58RCL2MQ89N4B8W.uasset",
+				"C:/GIT/Foundry/ImpactTemplate/Content/Impact/Blueprints/CameraShake.uasset",
 				"C:/Data/Work/Foundry/Repository/Foundry/ImpactTemplate/Content/Impact/Blueprints/SlammerCube.uasset",
 				"C:/Data/Work/Foundry/Repository/Foundry/ImpactTemplate/Content/__ExternalActors__/Impact/Maps/Impact/5/0Q/94VARAQ58RCL2MQ89N4B8W.uasset",
 				"C:/Data/Work/Foundry/Repository/Foundry/ImpactTemplate/Content/__ExternalActors__/Impact/Maps/Impact/4/49/3DBFD5IAVRIGDP2ROTSKTY.uasset",
